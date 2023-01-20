@@ -3,7 +3,7 @@ from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 from tkinter import Widget
 from django.forms import ModelForm
-
+import _tkinter
 from django import forms
 
 
