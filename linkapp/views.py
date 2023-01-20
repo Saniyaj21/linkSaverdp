@@ -9,6 +9,11 @@ from django.contrib.auth.models import User
 from .forms import RegisterUserForm
 from django.contrib.auth.forms import UserCreationForm
 from django.db.models import Q
+from tkinter import *  
+#creating the application main window.   
+
+#Entering the event main loop  
+
 
 
 
